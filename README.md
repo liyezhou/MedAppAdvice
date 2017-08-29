@@ -1,1 +1,3 @@
-# Med Application Advice\n\nDownload the PDF to view.
+# Med Application Advice
+
+Download the PDF to view.
